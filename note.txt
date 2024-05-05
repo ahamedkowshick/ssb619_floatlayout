@@ -1,0 +1,13 @@
+Layout
+float-
+wrapper
+float: left/right/none
+overflow
+clearfix
+
+comments:max-height and height performaing same.
+ min-height works for flexibility.based on content
+
+ <div> --block level element, block level element no need to weidth delcare. if we declare then it will be creating problem.
+
+ Width- width property write first then height for all time
